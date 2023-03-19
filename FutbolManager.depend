@@ -1,0 +1,347 @@
+# depslib dependency file v1.0
+1571410493 source:z:\programas\pruebas\futbolmanager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"InicioUsuario/InterfazInicio.h"
+
+1572011175 source:z:\programas\pruebas\futbolmanager\interfazusuario\interfazgrafica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"InterfazGrafica.h"
+	"InterfazUsuario.h"
+	"../InterfazSistema/DatosUsuario.h"
+	"../InterfazSistema/SistemaEquipos.h"
+	"../InterfazSistema/iniciarPartido.h"
+	"../InterfazSistema/finTemporada.h"
+
+1571421081 z:\programas\pruebas\futbolmanager\interfazusuario\interfazgrafica.h
+
+1572092461 z:\programas\pruebas\futbolmanager\interfazusuario\interfazusuario.h
+
+1572093520 source:z:\programas\pruebas\futbolmanager\interfazusuario\interfazusuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"InterfazGrafica.h"
+	"InterfazUsuario.h"
+	"../InterfazSistema/DatosUsuario.h"
+	"../InterfazSistema/SistemaEquipos.h"
+	"../InterfazSistema/iniciarPartido.h"
+	"../InterfazSistema/finTemporada.h"
+
+1572011175 source:z:\programas\pruebas\futbolmanager\interfazsistema\datosusuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"DatosUsuario.h"
+	"SistemaEquipos.h"
+	"iniciarPartido.h"
+	"finTemporada.h"
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+
+1571413953 z:\programas\pruebas\futbolmanager\interfazsistema\datosusuario.h
+
+1571411311 source:z:\programas\pruebas\futbolmanager\iniciousuario\interfazinicio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+	"GraficaInicio.h"
+	"InterfazInicio.h"
+	"OpcionesInicio.h"
+
+1571410715 source:z:\programas\pruebas\futbolmanager\iniciousuario\graficaincio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"../InterfazUsuario/InterfazGrafica.h"
+	"GraficaInicio.h"
+	"InterfazInicio.h"
+
+1571409894 z:\programas\pruebas\futbolmanager\iniciousuario\graficainicio.h
+
+1571410451 z:\programas\pruebas\futbolmanager\iniciousuario\interfazinicio.h
+
+1571586988 source:z:\programas\pruebas\futbolmanager\iniciousuario\opcionesinicio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+	"GraficaInicio.h"
+	"InterfazInicio.h"
+	"OpcionesInicio.h"
+
+1571408893 z:\programas\pruebas\futbolmanager\iniciousuario\opcionesinicio.h
+
+1572019151 z:\programas\pruebas\futbolmanager\interfazsistema\sistemaequipos.h
+
+1572033127 source:z:\programas\pruebas\futbolmanager\interfazsistema\sistemaequipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"DatosUsuario.h"
+	"SistemaEquipos.h"
+	"iniciarPartido.h"
+	"finTemporada.h"
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+
+1572024141 z:\programas\pruebas\futbolmanager\interfazsistema\iniciarpartido.h
+
+1572094741 source:z:\programas\pruebas\futbolmanager\interfazsistema\iniciarpartido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"DatosUsuario.h"
+	"SistemaEquipos.h"
+	"iniciarPartido.h"
+	"finTemporada.h"
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+
+1572094741 z:\programas\pruebas\futbolmanager\interfazsistema\fintemporada.h
+
+1572095988 source:z:\programas\pruebas\futbolmanager\interfazsistema\fintemporada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"DatosUsuario.h"
+	"SistemaEquipos.h"
+	"iniciarPartido.h"
+	"finTemporada.h"
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+
+1571407115 source:z:\programas\official\futbolmanager\iniciousuario\graficaincio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"../InterfazUsuario/InterfazGrafica.h"
+	"GraficaInicio.h"
+	"InterfazInicio.h"
+
+1571417481 z:\programas\official\futbolmanager\interfazusuario\interfazgrafica.h
+
+1571406294 z:\programas\official\futbolmanager\iniciousuario\graficainicio.h
+
+1571406851 z:\programas\official\futbolmanager\iniciousuario\interfazinicio.h
+
+1572194343 source:z:\programas\official\futbolmanager\iniciousuario\interfazinicio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+	"GraficaInicio.h"
+	"InterfazInicio.h"
+	"OpcionesInicio.h"
+
+1572361148 z:\programas\official\futbolmanager\interfazusuario\interfazusuario.h
+
+1571405293 z:\programas\official\futbolmanager\iniciousuario\opcionesinicio.h
+
+1572455438 source:z:\programas\official\futbolmanager\interfazsistema\datosusuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"DatosUsuario.h"
+	"SistemaEquipos.h"
+	"iniciarPartido.h"
+	"finTemporada.h"
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+	"../Online/VerUsuarios.h"
+	"../Online/PartidoRapido.h"
+	"../Ajustes/Ajustes.h"
+
+1572276078 z:\programas\official\futbolmanager\interfazsistema\datosusuario.h
+
+1572015551 z:\programas\official\futbolmanager\interfazsistema\sistemaequipos.h
+
+1572274528 z:\programas\official\futbolmanager\interfazsistema\iniciarpartido.h
+
+1572196101 z:\programas\official\futbolmanager\interfazsistema\fintemporada.h
+
+1572517495 source:z:\programas\official\futbolmanager\interfazsistema\fintemporada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"DatosUsuario.h"
+	"SistemaEquipos.h"
+	"iniciarPartido.h"
+	"finTemporada.h"
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+	"../Online/VerUsuarios.h"
+	"../Online/PartidoRapido.h"
+	"../Ajustes/Ajustes.h"
+
+1572512588 source:z:\programas\official\futbolmanager\interfazsistema\iniciarpartido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"DatosUsuario.h"
+	"SistemaEquipos.h"
+	"iniciarPartido.h"
+	"finTemporada.h"
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+	"../Online/VerUsuarios.h"
+	"../Online/PartidoRapido.h"
+	"../Ajustes/Ajustes.h"
+
+1572455438 source:z:\programas\official\futbolmanager\interfazsistema\sistemaequipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"DatosUsuario.h"
+	"SistemaEquipos.h"
+	"iniciarPartido.h"
+	"finTemporada.h"
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+	"../Online/VerUsuarios.h"
+	"../Online/PartidoRapido.h"
+	"../Ajustes/Ajustes.h"
+
+1572455438 source:z:\programas\official\futbolmanager\interfazusuario\interfazgrafica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"InterfazGrafica.h"
+	"InterfazUsuario.h"
+	"../InterfazSistema/DatosUsuario.h"
+	"../InterfazSistema/SistemaEquipos.h"
+	"../InterfazSistema/iniciarPartido.h"
+	"../InterfazSistema/finTemporada.h"
+	"../Online/VerUsuarios.h"
+	"../Online/PartidoRapido.h"
+	"../Ajustes/Ajustes.h"
+
+1572518064 source:z:\programas\official\futbolmanager\interfazusuario\interfazusuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"InterfazGrafica.h"
+	"InterfazUsuario.h"
+	"../InterfazSistema/DatosUsuario.h"
+	"../InterfazSistema/SistemaEquipos.h"
+	"../InterfazSistema/iniciarPartido.h"
+	"../InterfazSistema/finTemporada.h"
+	"../Online/VerUsuarios.h"
+	"../Online/PartidoRapido.h"
+	"../Ajustes/Ajustes.h"
+
+1571406893 source:z:\programas\official\futbolmanager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"InicioUsuario/InterfazInicio.h"
+
+1572193347 source:z:\programas\official\futbolmanager\iniciousuario\opcionesinicio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+	"GraficaInicio.h"
+	"InterfazInicio.h"
+	"OpcionesInicio.h"
+
+1572462563 source:z:\programas\official\futbolmanager\online\verusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"VerUsuarios.h"
+	"PartidoRapido.h"
+	"../InterfazSistema/DatosUsuario.h"
+	"../InterfazSistema/SistemaEquipos.h"
+	"../InterfazSistema/iniciarPartido.h"
+	"../InterfazSistema/finTemporada.h"
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+	"../Ajustes/Ajustes.h"
+
+1572364950 z:\programas\official\futbolmanager\online\verusuarios.h
+
+1572518064 z:\programas\official\futbolmanager\online\partidorapido.h
+
+1572518064 source:z:\programas\official\futbolmanager\online\partidorapido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"VerUsuarios.h"
+	"PartidoRapido.h"
+	"../InterfazSistema/DatosUsuario.h"
+	"../InterfazSistema/SistemaEquipos.h"
+	"../InterfazSistema/iniciarPartido.h"
+	"../InterfazSistema/finTemporada.h"
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+	"../Ajustes/Ajustes.h"
+
+1572455311 z:\programas\official\futbolmanager\ajustes\ajustes.h
+
+1572459752 source:z:\programas\official\futbolmanager\ajustes\ajustes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"Ajustes.h"
+	"../Online/VerUsuarios.h"
+	"../Online/PartidoRapido.h"
+	"../InterfazSistema/DatosUsuario.h"
+	"../InterfazSistema/SistemaEquipos.h"
+	"../InterfazSistema/iniciarPartido.h"
+	"../InterfazSistema/finTemporada.h"
+	"../InterfazUsuario/InterfazGrafica.h"
+	"../InterfazUsuario/InterfazUsuario.h"
+

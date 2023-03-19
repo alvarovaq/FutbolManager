@@ -1,0 +1,3 @@
+At.Madrid 89 89 88
+B.Munich 86 88 90
+B.Dortmund 85 84 87

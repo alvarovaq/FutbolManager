@@ -1,0 +1,6 @@
+1 M.City 9
+2 Chelsea 6
+3 Chelsea 10
+4 B.Dortmund 9
+5 PSG 5
+6 R.Madrid 2
